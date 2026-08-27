@@ -1,4 +1,4 @@
-# ¡Hola! Soy Camilo 👋
+# ¡Hola! Soy Camilo 
 
 Desarrollador enfocado en ingeniería de sistemas y desarrollo de software. Apasionado por la resolución de problemas, el aprendizaje continuo y la creación de proyectos eficientes.
 
